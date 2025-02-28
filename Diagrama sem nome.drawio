@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="714" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="595" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -909,6 +909,176 @@
         </mxCell>
         <mxCell id="sR_lok7pmIx3FLaMIanh-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1265" y="1010" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-27" value="&lt;div&gt;11. Solicite um número inteiro e imprima se é par ou ímpar.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="30" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sR_lok7pmIx3FLaMIanh-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1635" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-31" value="Insira o primeiro número:" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="150" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-34" value="O número {numero} é par." style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="410" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1634.5" y="110" as="sourcePoint" />
+            <mxPoint x="1634.5" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1634.5" y="190" as="sourcePoint" />
+            <mxPoint x="1634.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="sR_lok7pmIx3FLaMIanh-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1564.5" y="450" as="sourcePoint" />
+            <mxPoint x="1564.5" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1565" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="490" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sR_lok7pmIx3FLaMIanh-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1635" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-43" value="Insira um número:" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="150" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-45" value="verificadorNumeroImpar = numero % 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1634.5" y="110" as="sourcePoint" />
+            <mxPoint x="1634.5" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sR_lok7pmIx3FLaMIanh-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1535" y="350" as="sourcePoint" />
+            <mxPoint x="1530" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1530" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-53" value="verificadorNumeroImpar = 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1547.5" y="310" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sR_lok7pmIx3FLaMIanh-45" target="sR_lok7pmIx3FLaMIanh-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1645" y="200" as="sourcePoint" />
+            <mxPoint x="1645" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-56" value="&lt;b&gt;NÃO&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-57" value="&lt;b&gt;SIM&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="330" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sR_lok7pmIx3FLaMIanh-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1574.5" y="460" as="sourcePoint" />
+            <mxPoint x="1750" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1750" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-60" value="O número {numero} é impar." style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="405" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.631;exitY=0.946;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="sR_lok7pmIx3FLaMIanh-60" target="sR_lok7pmIx3FLaMIanh-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1574.5" y="460" as="sourcePoint" />
+            <mxPoint x="1640" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1748" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-63" value="12. Peça ao usuário para digitar sua cidade e imprima a mensagem &quot;Bem-vindo(a) à cidade de [cidade]&quot;." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="560" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-64" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="545" width="280" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="sR_lok7pmIx3FLaMIanh-67" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1635" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-67" value="Insira o primeiro número:" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="680" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1634.5" y="640" as="sourcePoint" />
+            <mxPoint x="1634.5" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1634.5" y="720" as="sourcePoint" />
+            <mxPoint x="1634.5" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-76" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="840" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="sR_lok7pmIx3FLaMIanh-79" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1635" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-79" value="Digite o nome de sua cidade:" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="680" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-82" value="Bem-vindo(a) à cidade de {cidade}!" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="760" width="255" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1634.5" y="640" as="sourcePoint" />
+            <mxPoint x="1634.5" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1634.5" y="720" as="sourcePoint" />
+            <mxPoint x="1634.5" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1634.58" y="800" as="sourcePoint" />
+            <mxPoint x="1634.58" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sR_lok7pmIx3FLaMIanh-88" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="600" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
