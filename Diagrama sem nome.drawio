@@ -802,6 +802,9 @@
         <mxCell id="CywS-Gf4T-sr7dHhk5kF-239" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1255" y="560" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CywS-Gf4T-sr7dHhk5kF-240" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="790" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
